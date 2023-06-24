@@ -1,2 +1,2 @@
-# myFirst
-hello world ！
+# Intro
+这是一个基于联邦学习的手写签名鉴定系统，尚未完成。
